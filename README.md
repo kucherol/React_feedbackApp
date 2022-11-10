@@ -1,6 +1,6 @@
 # React Feedback App
 
-This is a project from my React Front To Back course. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
+This is a small pet project on React course. It allows users to add, update and delete feedback.
 
 This project goes over all of the fundamentals of React including...
 
@@ -28,5 +28,3 @@ npm install
 ```bash
 npm run dev
 ```
-
-This will run JSON-server on port :5000 and React on port :3000
